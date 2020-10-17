@@ -1,0 +1,115 @@
+/*Header*/
+
+.navbar{
+	padding: 0 0  3rem;
+}
+.navbar-brand{
+	padding-left: 2rem;
+	padding-top: 2rem;
+	font-size: 2rem;
+	font-family: 'Montserrat-Bold', sans-serif;
+	font-weight: 700;
+}
+.nav-item{
+	padding: 0 18px;
+	font-size: 1.4rem;
+	font-family: 'Montserrat-Light',sans-serif;
+	font-weight: 300;
+}
+.head
+{
+	background-color:#7fdbda;
+}
+.logo
+{
+	width:9.8%;
+}
+.top-container
+{
+	padding: 5rem 2rem;
+	background-color: #f8f3eb;
+	width: 100%;
+	height: 550px;
+}
+.text
+{	font-size: 1.1rem;
+	padding: 2rem 6rem;
+	line-height: 35px;
+	font-family: 'Nunito', sans-serif;
+	font-weight: 400;	
+}
+.tctext
+{
+	text-decoration: underline;
+	font-weight: bold;
+}
+/*mid container*/
+.mid-text{
+	font-family: 'Nunito-Regular', sans-serif;
+	font-weight: 400;	
+}
+.mid-container
+{
+	
+	text-align: center;
+	padding: 8rem 2rem;
+}
+.ficon
+{
+	color:#7fdbda;
+	padding-bottom: 4.5rem;
+	padding-top: 4.5rem;
+	
+}
+.ficon:hover
+{
+	color: #035aa6;
+}
+.resimg{
+	width:100%;
+}
+h1{
+	font-family: 'Montserrat-Medium', sans-serif;
+	font-weight: 500;
+
+}
+.btn-decor{
+	color:#7fdbda;
+	margin: 5% 3% 5% 0;
+
+
+}
+
+.bottom-container{
+	text-align: center;
+}
+.bh3{
+	padding-top: 4.5rem;
+	font-family: 'Montserrat-Bold', sans-serif;
+	font-weight: 700;
+}
+.botc{
+	width:100%;
+	height: 350px;
+	background-color: #f8f3eb;
+}
+.foot{
+
+	width: 100%;
+	background-color:#7fdbda;
+	height: 400px; 
+}
+.ftext{
+	font-family:  'Nunito', sans-serif;
+	color: white;
+	font-size: 1.02rem;
+	font-weight: 500;
+	max-width: 500px;
+}
+.fht{
+		padding: 10 10 10 10 10;
+		font-family: 'Montserrat-Bold', sans-serif;
+		font-weight: 700;
+		font-size:1.5rem;
+		color: white;
+	}
